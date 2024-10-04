@@ -3,11 +3,15 @@
 
 *A GIF showing the expanding circles mimiking sound wages*
 
+
+https://github.com/user-attachments/assets/2565bb11-f60b-4d7b-afd5-d99c5768b738
+
+
 **About**
 
 This project creates an Arduino-powered generative art display using concentric circles in alternating colors (orange, blue, and green). 
 
-For more details on this project, check out [this blog post](https://www.notion.so/mori-liu/link_to_blog_post).
+For more details on this project, check out [this blog post]([https://www.notion.so/mori-liu/link_to_blog_post)](https://mori-liu.notion.site/Generative-Art-Installation-Blog-1152195ca68280989a64c50d74bce56c?pvs=4).
 
 **Design Goals**
 
