@@ -19,8 +19,6 @@ The goal of this project was to:
 
 •	Create an interactive art piece using an Arduino and a TFT display.
 
-•	Generate concentric circles with dynamic expansion and a carved “M” in the center.
-
 •	Provide a modular design that allows for easy customization of colors, speed, and radius.
 
 **Features**
@@ -35,21 +33,9 @@ The goal of this project was to:
 
 •	**Arduino** (compatible with TFT screens)
 
-•	**TFT Display** (such as the ILI9341)
+•	**ESP32 TTGO T-display** 
 
-•	**Jumper wires**
-
-•	**Breadboard** (optional)
-
-**Wiring Diagram**
-
-•	Connect the TFT display to the Arduino according to the screen’s specifications. You can refer to the [TFT screen guide](https://www.notion.so/mori-liu/link_to_TFT_guide) for wiring details.
-
-**Software Requirements**
-
-•	**Arduino IDE** installed on your computer.
-
-•	**TFT_eSPI library** for controlling the TFT display (install via Arduino Library Manager).
+•	**Lipo battery**
 
 **Installation Steps**
 
@@ -71,12 +57,4 @@ cd arduino-art-display
 
 •	Connect the TFT screen to your Arduino 
 
-**Customization**
 
-You can modify the following parameters in the code:
-
-•	**Circle Colors**: Change the colors[] array to use different colors.
-
-•	**Expansion Speed**: Modify the expansionSpeed variable to adjust the speed of the circles.
-
-•	**Carved “M”**: You can replace the “M” with other text or shapes using the carveOutM() function.
